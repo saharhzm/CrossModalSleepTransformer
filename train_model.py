@@ -53,6 +53,7 @@ from keras.layers import Layer
 import tensorflow_probability as tfp
 from sklearn.metrics import roc_auc_score
 from cross_modal_transformer import CrossModalTransformer
+from cnn_attention_blocks import extractor_10 ,extractor_50, extractor_125, extractor_hc, extractor_spec
 
 print("load data...")
 dict_data_dir = "data/segmented_data/"
