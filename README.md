@@ -20,7 +20,7 @@ The Cross-modal SleepTransformer is a deep learning model designed for sleep sta
 - Python 3.x
 - TensorFlow 2.x
 - NumPy
-- scipy
+- Scipy
 - Pandas
 - Scikit-learn
 - Imbalanced-learn
