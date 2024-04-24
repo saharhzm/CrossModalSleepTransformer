@@ -1,9 +1,9 @@
-# CrossModal SleepTransformer
+# Cross-Modal SleepTransformer
 
 
 **Overview**
 
-The Cross-modal Sleep Transformer is a deep learning model designed for sleep stage classification based on multimodal physiological signals. It utilizes a transformer architecture, and cross-attention mechanism to effectively process and integrate information from multiple input modalities, including EEG, EOG, EMG, ECG, and respiratory signals. By leveraging both raw signal data and handcrafted features extracted from these modalities, our model aims to accurately classify different sleep stages, including Wake, N1, N2, N3, and REM.
+The Cross-modal SleepTransformer is a deep learning model designed for sleep stage classification based on multimodal physiological signals. It utilizes a transformer architecture, and cross-attention mechanism to effectively process and integrate information from multiple input modalities, including EEG, EOG, EMG, ECG, and respiratory signals. By leveraging both raw signal data and handcrafted features extracted from these modalities, our model aims to accurately classify different sleep stages, including Wake, N1, N2, N3, and REM.
 
 
 **Features**
