@@ -23,17 +23,17 @@ The Cross-modal Sleep Transformer is a deep learning model designed for sleep st
 
 **Requirements**
 
--Python 3.x
+- Python 3.x
 
--TensorFlow 2.x
+- TensorFlow 2.x
 
--NumPy
+- NumPy
 
--Pandas
+- Pandas
 
--Scikit-learn
+- Scikit-learn
 
--Matplotlib
+- Matplotlib
 
 ###########################################
 
