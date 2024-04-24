@@ -9,13 +9,9 @@ The Cross-modal Sleep Transformer is a deep learning model designed for sleep st
 **Features**
 
 - Integrates multiple physiological signals for sleep stage classification.
-
 - Utilizes transformer architecture for efficient information processing and integration.
-
 - Supports both raw signal data and handcrafted features as input modalities.
-
 - Provides flexibility in handling various types of physiological data.
-
 - Facilitates accurate classification of different sleep stages.
 
 ############################################
