@@ -20,15 +20,12 @@ The Cross-modal Sleep Transformer is a deep learning model designed for sleep st
 **Requirements**
 
 - Python 3.x
-
 - TensorFlow 2.x
-
 - NumPy
-
+- scipy
 - Pandas
-
 - Scikit-learn
-
+- Imbalanced-learn
 - Matplotlib
 
 ###########################################
@@ -38,8 +35,6 @@ The Cross-modal Sleep Transformer is a deep learning model designed for sleep st
 **Usage**
 
 1. Prepare your dataset: Ensure your dataset is properly formatted and includes the necessary physiological signals (e.g., EEG, EOG, EMG, ECG).
-
 2. Preprocess the data: Perform any required preprocessing steps, such as segmentation, and normalization on your dataset.
-
 3. Train and test the model: Use the provided scripts to train and test the model on your dataset.
 
