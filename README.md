@@ -1,5 +1,8 @@
 # CrossModalSleepTransformer
+SleepEEGNet: Automated Sleep Stage Scoring with Sequence to Sequence Deep Learning Approach
+In this study, we introduced a novel deep learning approach, called SleepEEGNet, for automated sleep stage scoring using a single-channel EEG.
 
+Paper
 Overview
 
 The Cross-modal Sleep Transformer is a deep learning model designed for sleep stage classification based on multimodal physiological signals. It utilizes a transformer architecture, and cross-attention mechanism to effectively process and integrate information from multiple input modalities, including EEG, EOG, EMG, ECG, and respiratory signals. By leveraging both raw signal data and handcrafted features extracted from these modalities, our model aims to accurately classify different sleep stages, including Wake, N1, N2, N3, and REM.
