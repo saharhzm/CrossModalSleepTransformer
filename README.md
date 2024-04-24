@@ -1,4 +1,4 @@
-# CrossModalSleepTransformer
+# CrossModal SleepTransformer
 
 
 **Overview**
