@@ -1,5 +1,8 @@
 # Cross-Modal SleepTransformer
+Published in Journal of Biomedical Informatics
+https://www.sciencedirect.com/science/article/abs/pii/S1532046424001072
 
+![image](https://github.com/user-attachments/assets/d3efd3b7-959a-47b8-b8c5-15a3f3023d8d)
 
 **Overview**
 
