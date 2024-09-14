@@ -2,7 +2,7 @@
 Published in Journal of Biomedical Informatics
 https://www.sciencedirect.com/science/article/abs/pii/S1532046424001072
 
-![image](https://github.com/user-attachments/assets/d3efd3b7-959a-47b8-b8c5-15a3f3023d8d)
+![image](https://github.com/user-attachments/assets/d35e4031-bc01-4b3d-897c-9f3bf9a5f005)
 
 **Overview**
 
